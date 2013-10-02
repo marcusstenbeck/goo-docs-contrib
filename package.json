@@ -2,7 +2,7 @@
   "name": "docs-contrib",
   "version": "0.1.0",
   "devDependencies": {
-    "assemble": "~0.4.7",
+    "assemble": "0.4.3",
     "grunt": "~0.4.1",
     "assemble-less": "~0.5.3",
     "grunt-contrib-copy": "~0.4.1",
@@ -12,7 +12,7 @@
     "helper-aggregate": "~0.1.1"
   },
   "siteConfig": {
-    "publicDir": "build"
+    "publicDir": "build/"
   },
   "keywords": []
 }
