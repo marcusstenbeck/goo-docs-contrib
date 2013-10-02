@@ -11,8 +11,6 @@ Let's make some **fat text**.
 * bullet
 * list!
 
-*hejhej*
-
 *** very strong emphasis ***
 
 *Bullet 
