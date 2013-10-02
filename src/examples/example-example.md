@@ -2,6 +2,6 @@
 title: Example Example
 ---
 
-Header
+Creating an example
 ---------------
-**This** *is* _markdown_!
+Let's make some **fat text*.
