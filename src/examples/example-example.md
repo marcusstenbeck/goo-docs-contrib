@@ -13,3 +13,7 @@ Let's make some **fat text*.
 *hejhej*
 
 *** very strong emphasis ***
+
+*Bullet 
+	+indented
+*Bullet
