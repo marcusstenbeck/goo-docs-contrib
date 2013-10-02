@@ -16,3 +16,5 @@ Let's make some **fat text**.
 *Bullet 
 	+indented
 *Bullet
+
+The dog says: BARK!
